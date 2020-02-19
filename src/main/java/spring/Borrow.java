@@ -68,5 +68,4 @@ public class Borrow {
     public void setPerson_id(long person_id) {
         this.person_id = person_id;
     }
-
 }

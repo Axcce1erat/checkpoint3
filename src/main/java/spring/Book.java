@@ -66,8 +66,6 @@ public class Book {
         this.author = author;
     }
 
-
-
     public List<Library> getLibrary() {
         return library;
     }
