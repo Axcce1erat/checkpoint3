@@ -1,0 +1,60 @@
+1. How do you declare and initialize an empty array of 4 integers called `tab`?
+int[] tab = {1,2,3,4};
+
+2. What are the differences between float and double?
+Unterschiedliche Datentypen
+
+3. What are the differences between char and Character?
+Die Schreibweise
+
+4. What is an instance?
+Wird von Objecten genutzt und den Zustand zu speichern
+
+5. Where is the reference in `Human bruce = new Human("Bruce");`?
+Humen bruce = new Human();
+
+6. Can an instance have multiple references?
+yes
+
+7. What does the protected access modifier mean?
+Classes können nur von Ihren Kinderklassen und im package erreicht werden
+
+8. Where can I access a package-private class member?
+Wenn sie in ein und dem selben package sind
+
+9. What is the purpose of the `final` keyword?
+Um constante Variabeln zu erstellen, nachdem sie gesetzt sind
+
+10. What is the `static` keyword used for?
+Variabeln, Metoden und verschachtelte Klasse 
+
+11. What naming convention should I use for a constant?
+Alle Bustaben werden groß geschrieben und Wörter werden mit einem unterstrich geteilt
+
+12. When should I write comments in Java code?
+Wenn dein code so unlesbar ist und du Ihn erklären musst
+
+13. What are the names of the roles defined by SCRUM?
+Dev Team, Scrum Master, Product Owner
+
+14. Simplify the following code: if (test == false) { test = true; } else { test = false; }
+if (test == false) { test = true; }
+
+15. In a Spring Boot project, what is a template?
+Eine HTML Seite
+
+16. In a Spring Boot project, what is a controller?
+Er verbindet die Classes im Project
+
+17. In a Spring Boot project, what is an entity?
+Es representiert eine Tabelle in einer Datenbank
+
+18. In a Spring Boot project, what is a repository?
+Ein mechanismus um Speicher zu nuten
+
+19. In a Spring Boot project, what is the purpose of the pom.xml file?
+Es speichert Informationen über das Project zum Beispeile Maven, Web, etc.
+
+20. Can you explain the Inversion of Control?
+no
+
